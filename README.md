@@ -1,1 +1,1 @@
-In this repository I share my small projects. They are in R and Python.
+In this repository I share my BI projects. They are Python codes, SQL scripts and dashboards.
